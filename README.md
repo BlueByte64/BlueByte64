@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bugado003
 - 👀 I’m interested in game development **AND** modding
 - 💻 I use C#, lua (and learning java, c++, haxe and web stuff)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on basically any game or technology used in game dev
 - 📫 How to reach me: u can DM me on discord
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: Do people even read this?
