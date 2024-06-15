@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bugado003
 - 👀 I’m interested in game development **AND** modding
-- 💻 I like using the C# programming language but i can do stuff in other languages as well 
+- 💻 I like making Desktop programs
 - 💞️ I’m looking to collaborate on basically any game or technology used in game dev
 - 📫 How to reach me: u can DM me on discord
 - 😄 Pronouns: He/ Him
