@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BlueByte64
 - 👀 I’m interested in game development **AND** modding
 - 💻 I like making Desktop programs
-- 💞️ I’m looking to collaborate on basically any game or technology used in game development
+- ✨ I’m looking to collaborate on basically any game or technology used in game development
 - 📫 How to reach me: u can DM me on discord
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: Do people even read this?
