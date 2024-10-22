@@ -4,7 +4,7 @@
 - ✨ I’m looking to collaborate on basically any game or technology used in game development
 - 📫 How to reach me: u can DM me on discord
 - 😄 Pronouns: He/ Him
-- ⚡ Fun fact: Do people even read this?
+- ⚡ Languages: C#(Favorite language), Java, The web frontend trio lol, python, lua, still learning c++
 
 <!---
 BlueByte64/BlueByte64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
